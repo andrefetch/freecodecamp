@@ -7,8 +7,8 @@ harder projects and LeetCode-style problems.
 ## Chapters
 
 **[Chapter 1: Python Basics](python-certification/python-basics/README.md)**
-Variables, data types, strings, numbers, booleans and conditionals, functions
-and scope. Four projects done so far, up to the Movie Ticket Booking Calculator.
+Going back over the fundamentals to make them solid. Four projects done so far,
+up to the Movie Ticket Booking Calculator.
 
 **Chapter 2: Loops and Sequences**
 Not started yet.
