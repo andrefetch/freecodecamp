@@ -7,11 +7,11 @@ harder projects and LeetCode-style problems.
 ## Chapters
 
 **[Chapter 1: Python Basics](python-certification/python-basics/README.md)**
-Going back over the fundamentals to make them solid. Four projects done so far,
-up to the Movie Ticket Booking Calculator.
+Going back over the fundamentals to make them solid. Finished in two days, all
+seven projects, ending on the RPG Character.
 
 **Chapter 2: Loops and Sequences**
-Not started yet.
+Up next.
 
 ## Layout
 
@@ -21,7 +21,10 @@ python-certification/
 │   ├── build-a-report-card-printer/
 │   ├── build-an-employee-profile-generator/
 │   ├── build-a-bill-splitter/
-│   └── build-a-movie-booking-calculator/
+│   ├── build-a-movie-booking-calculator/
+│   ├── apply-discount-function/
+│   ├── caesar-cypher/
+│   └── build-a-rpg-character/
 └── loops-and-sequences/
 ```
 
