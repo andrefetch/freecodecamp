@@ -8,9 +8,13 @@ harder projects and LeetCode-style problems.
 
 **[Chapter 1: Python Basics](python-certification/python-basics/README.md)**
 Going back over the fundamentals to make them solid. Finished in two days, all
-seven projects, ending on the RPG Character.
+eight projects, ending on the RPG Character.
 
-**Chapter 2: Loops and Sequences**
+**[Chapter 2: Loops and Sequences](python-certification/loops-and-sequences/README.md)**
+Lists, tuples, loops and the built-ins that replace them. Three days, both
+projects, the Pin Extractor and the Number Pattern Generator.
+
+**Chapter 3: Dictionaries and Sets**
 Up next.
 
 ## Layout
@@ -24,8 +28,11 @@ python-certification/
 │   ├── build-a-movie-booking-calculator/
 │   ├── apply-discount-function/
 │   ├── caesar-cypher/
-│   └── build-a-rpg-character/
+│   ├── build-a-rpg-character/
+│   └── build-a-weather-planner/
 └── loops-and-sequences/
+    ├── build-a-pin-extractor.py/
+    └── number-patter-generator/
 ```
 
 Everything is a standalone script:

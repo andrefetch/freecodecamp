@@ -60,6 +60,7 @@ Done:
 | [Employee Profile Generator](build-an-employee-profile-generator/employee_generator.py) | String joining, f-strings, slicing an ID apart |
 | [Bill Splitter](build-a-bill-splitter/bill_splitter.py) | Running totals, tip percentage, rounding |
 | [Movie Ticket Booking Calculator](build-a-movie-booking-calculator/movie_booking_calculator.py) | Conditionals and nested logic |
+| [Travel Weather Planner](build-a-weather-planner/weather_planner.py) | Chained comparisons, `and`/`or`/`not` in one decision |
 | [Apply Discount Function](apply-discount-function/apply_discount.py) | Validating arguments before doing the maths |
 | [Caesar Cipher](caesar-cypher/caesar-cypher.py) | Default arguments, rotating a string, `translate()` |
 | [RPG Character](build-a-rpg-character/rpg_character.py) | Guard clauses stacked up, string repetition for the stat bars |
